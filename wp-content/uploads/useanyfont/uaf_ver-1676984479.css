@@ -1,0 +1,8 @@
+@font-face {
+					font-family: 'bray-notes';
+					src: url('4392bray-notes.woff') format('woff2'),
+						url('4392bray-notes.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.bray-notes{font-family: 'bray-notes' !important;}
